@@ -1,9 +1,10 @@
 {
-    "name": "Module.Tests",
-    "rootNamespace": "",
+    "name": "UnityUtils.UnityAtoms.InputSystem.Tests",
+    "rootNamespace": "niscolas.UnityUtils.UnityAtoms.InputSystem.Tests",
     "references": [
         "UnityEngine.TestRunner",
-        "UnityEditor.TestRunner"
+        "UnityEditor.TestRunner",
+        "UnityUtils.UnityAtoms.InputSystem"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

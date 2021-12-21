@@ -1,7 +1,9 @@
 {
-    "name": "Module.Editor",
-    "rootNamespace": "Module.Editor",
-    "references": [],
+    "name": "UnityUtils.UnityAtoms.InputSystem.Editor",
+    "rootNamespace": "niscolas.UnityUtils.UnityAtoms.InputSystem.Editor",
+    "references": [
+        "GUID:35cfaac19cb7e8d47ba6a75014698af6"
+    ],
     "includePlatforms": [
         "Editor"
     ],
